@@ -1,0 +1,5 @@
+
+
+#+begin_src 
+python -m ipykernel install --user --name=venv --display-name "Python (ai_workbench-v/env)"
+#+end_src
