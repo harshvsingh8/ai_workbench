@@ -1,0 +1,4 @@
+** Plan
+
+ - [ ] Download text sample file: the-verdict.txt
+ - [ ] 
