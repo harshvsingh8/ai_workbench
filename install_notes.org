@@ -18,7 +18,7 @@ pip install -r requirements-ml.txt
 Register the venv for ipykernel.
 
 #+begin_src 
-python -m ipykernel install --user --name=venv --display-name "Python (ai_workbench-v/env)"
+python -m ipykernel install --user --name=venv --display-name "Python(ai_workbench-v/env)"
 #+end_src
 
 Do not freeze. 
@@ -50,3 +50,8 @@ True
 NVIDIA GeForce RTX 4050 Laptop GPU
 >>>
 #+end_src
+
+Tips: 
+ - Remove existing ipykernels and the new one afresh
+ - When it is messed up - remove -rf venv, and start afresh.
+ - Restart vs-code if kernel is stuck.
